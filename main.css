@@ -71,22 +71,6 @@
       margin-bottom: 30px;
   }
 
-  /*Miscellaneous*/
-
-  .container-fluid {
-      padding: 60px 50px;
-  }
-
-  .bg-grey {
-      background-color: black;
-  }
-
-
-  .logo {
-      color: steelblue;
-      font-size: 200px;
-      text-shadow: 1px 1px 5px #000;
-  }
 
 
   /* Navbar */
@@ -119,7 +103,7 @@
       color: #fff !important;
   }
 
-  /*Jubotron & about us*/
+
 
   .jumbotron {
       background-image: url(img/first.jpg);
@@ -150,16 +134,29 @@
       padding-right: 100px;
   }
 
+  .container-fluid {
+      padding: 60px 50px;
+  }
+
+  .bg-grey {
+      background-color: black;
+  }
+
+
+  .logo {
+      color: steelblue;
+      font-size: 200px;
+      text-shadow: 1px 1px 5px #000;
+  }
 
   /* Services panel */
-
+  
   .our-services {
       background-image: url(img/garage.jpg);
       background-repeat: no-repeat;
       background-size: cover;
       opacity: 0.75;
   }
-
   .panel {
       border: 1px solid dodgerblue;
       border-radius: 0 !important;
